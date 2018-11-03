@@ -56,3 +56,8 @@ It is a generalisAtion of the basic array in matlab that can have as its element
 ont is used to integrate
 z=sin(x+y)
 let int(z,x,0,pi/2)
+
+Q) Define a column vector v=[x y]'
+inner product= v'.v
+outer product=v.v'
+TO CHange from conjugate to real we add the term real
