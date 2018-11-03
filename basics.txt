@@ -65,3 +65,14 @@ TO CHange from conjugate to real we add the term real
 /*disp can be replaced with msgbox */
 
 legend tells about the difference between two graphs plotted between same co ordinates
+
+hold on stops the display time
+hold off displays all the results or plotsS
+
+linestyle is how you draw the line
+marker is also a line but it has a mark on it
+
+line(t,y2, "line style", "--")
+line(t,y3, "marker", "00" )
+
+legend enables the writing on graph
