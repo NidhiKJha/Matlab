@@ -63,3 +63,5 @@ outer product=v.v'
 TO CHange from conjugate to real we add the term real
 
 /*disp can be replaced with msgbox */
+
+legend tells about the difference between two graphs plotted between same co ordinates
