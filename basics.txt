@@ -30,3 +30,16 @@ min= min of column
 min(min)= most minimum value
 max = max value
 max(max()) =max value
+
+Data types:
+1)Primary Numeric, Boolean, Text, Function Handling
+2)Secodary
+
+Function Handling:
+
+Ques:F(x)=equation of  astaraight line is given by y=mx=c. Compute y cordinates
+ith a slope m=0.5 and c= -2 at the following x co ordinates
+x=0,1.5,3,4,5,7,9,10
+
+Create a vector t of 10 elements ie 1 to 10 & compute the value of x=tsint,y=(t-1)/(t+1)
+y=sint(t^2)/t^2
