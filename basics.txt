@@ -1,0 +1,10 @@
+HDL  = Hardware descripition language
+FPGA = Field programmable gate array(reprogrammable)
+
+Command Window is where the execution takes place
+Editor is where we add files
+
+.m= script file
+.mdl/.slx= modeling file
+.fig = figure file
+.mat= binary variable
