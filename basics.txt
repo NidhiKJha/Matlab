@@ -8,3 +8,25 @@ Editor is where we add files
 .mdl/.slx= modeling file
 .fig = figure file
 .mat= binary variable
+
+1 row then its's row vector
+ double data type takes 8 byte initially
+whos is used to get the size of row or column
+ 
+equal no. of rows and columns = Square matrix
+inv(a)
+ = adj(a)\|a|
+ Rank is no. of values in row
+ctrl R to comment
+
+random gives values between o and 1
+magic gives a matrix of max value
+
+numel gives no. of elements
+
+length= no. of columns
+size= no. of rows and columns
+min= min of column
+min(min)= most minimum value
+max = max value
+max(max()) =max value
