@@ -43,3 +43,16 @@ x=0,1.5,3,4,5,7,9,10
 
 Create a vector t of 10 elements ie 1 to 10 & compute the value of x=tsint,y=(t-1)/(t+1)
 y=sint(t^2)/t^2
+
+Q) x=rcosa,y=rsina lie on a circle x^2+y^2=r^2.Create column vector value a=o,pi\4pi\2,3pi\4, pi, 5pi/4. and r=2
+Compute vector x&y. Also check r=sqrt[(x^2)+(y^2)]r
+
+Secondary data type
+* cell : Combination of diffrent data types
+It is a generalisAtion of the basic array in matlab that can have as its elements any type of matlab data structures.
+
+* Structure ; Everything comesin  an array only
+
+ont is used to integrate
+z=sin(x+y)
+let int(z,x,0,pi/2)
