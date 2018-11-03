@@ -1,5 +1,8 @@
 a=input('Enter your mobile number');
 if a==123
-    disp('verified');
+    disp('verified'); 
 end
-g
+a=input('Enter your mobile number');
+if a==123
+    msgbox('verified'); 
+else

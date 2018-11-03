@@ -61,3 +61,5 @@ Q) Define a column vector v=[x y]'
 inner product= v'.v
 outer product=v.v'
 TO CHange from conjugate to real we add the term real
+
+/*disp can be replaced with msgbox */
