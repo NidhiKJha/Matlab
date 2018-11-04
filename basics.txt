@@ -105,3 +105,5 @@ Therefore, to create a surface plot we need to generate a grid of x,y co ordinat
 grid points.
 
 Mesh grid
+
+meshc is use to get the projections ie countour givesyou the projection on downward side
