@@ -81,3 +81,5 @@ To fill the empty or blank araea we use fill command
 
 bar command is used to represent in bar style
 pie command is used to get a pie chart
+
+if we have to plot two curves on same axis the we use the command plotyy()
