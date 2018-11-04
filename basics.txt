@@ -111,3 +111,7 @@ surface gives the wire form of mesh
 surfacec gives the contour wire form of mesh
 
 Commands like cylinder, ellipsoid are used to draw their respective figures by passing required parameters
+
+imread is used to read the image
+imshow to show the image
+rgb2graya to change the colour
