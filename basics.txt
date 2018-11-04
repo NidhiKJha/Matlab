@@ -95,3 +95,5 @@ resume to resume the music
 but if pause then you can start from the mid where you have paiused
 
 Change the freuency in audioplayer to change the speed of song
+
+to change the volume of sound change y
