@@ -1,0 +1,9 @@
+
+x= linspace(-3,3,50);
+y=x;
+[X,Y]=meshgrid(x,y);
+a=X.^2-Y.^2;
+b=X.^2+Y.^2;
+z=(((X*Y).*a)./b);
+mesh(z);
+meshc(z);
