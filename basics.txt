@@ -106,4 +106,6 @@ grid points.
 
 Mesh grid
 
-meshc is use to get the projections ie countour givesyou the projection on downward side
+meshc is use to get the projections ie countour givesyou the projection on downward sidegit 
+surface gives the wire form of mesh
+surfacec gives the contour wire form of mesh
