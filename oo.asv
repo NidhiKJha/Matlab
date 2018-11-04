@@ -1,3 +1,0 @@
-f(t)=tsin(t);
-0<=t<=1pi
-fplot('t.*sin(t)',[0,10*pi]);

@@ -76,3 +76,7 @@ line(t,y2, "line style", "--")
 line(t,y3, "marker", "00" )
 
 legend enables the writing on graph
+
+To fill the empty or blank araea we use fill command
+
+bar command is used to represent in bar style
