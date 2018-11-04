@@ -1,0 +1,7 @@
+c='asia''africa''america''europe''australia'];
+p=('2.3 5.6 7.8 9.1 2.3');
+
+barh(c,p);
+gtext(c);
+
+
