@@ -97,3 +97,11 @@ but if pause then you can start from the mid where you have paiused
 Change the freuency in audioplayer to change the speed of song
 
 to change the volume of sound change y
+
+
+Usually surfaces are represented by the value of z co ordinates
+Sampled on grid xy values
+Therefore, to create a surface plot we need to generate a grid of x,y co ordinates and find the height of z co ordinates of the surface of the 
+grid points.
+
+Mesh grid
