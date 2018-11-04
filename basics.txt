@@ -89,3 +89,7 @@ get function is to take the handle and set function is used to set it.
 hist() is used to get the maximum frequency
 
 stem for non continuous function
+
+stop to stop the song
+resume to resume the music 
+but if pause then you can start from the mid where you have paiusedS
