@@ -3,3 +3,4 @@ y1=exp(-t).*sin(t);
 
 y2=exp(t);
 plotyy(t,y1,t,y2);
+
