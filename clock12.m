@@ -5,4 +5,8 @@ for i=0:1:2
     
 end
 axis([-3 5 -3 5]);
+text(2.3, -.2, "seconds");
+text(1.3, -.2, "minutes");
+text(.3, -.2, "hours");
+
 
