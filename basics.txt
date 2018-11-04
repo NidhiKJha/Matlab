@@ -87,3 +87,5 @@ if we have to plot two curves on same axis the we use the command plotyy()
 get function is to take the handle and set function is used to set it.
 
 hist() is used to get the maximum frequency
+
+stem for non continuous function
